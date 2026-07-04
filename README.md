@@ -85,17 +85,7 @@ The dataset includes customer-related information such as:
 
 ## 📷 Dashboard Preview
 
-<img width="1174" height="655" alt="Screenshot 2026-06-11 175812" src="https://github.com/user-attachments/assets/3a643a19-e829-40e6-88da-6cba58c94e3b" />
-
-
-> Add screenshots of your dashboard here.
-
-Example:
-
-* Executive Dashboard
-* Customer Segmentation
-* Spending Analysis
-* Demographic Insights
+<img width="1000" height="562" alt="Dashboard" src="https://github.com/user-attachments/assets/337350fe-cc6c-4548-b4d2-b2aeebd4e719" />
 
 ---
 
