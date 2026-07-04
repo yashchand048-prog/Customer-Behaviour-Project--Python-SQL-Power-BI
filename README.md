@@ -132,6 +132,6 @@ The dataset includes customer-related information such as:
 
 **Yash Chand**
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python | AI-Assisted Analytics
+Data Analyst | Power BI | SQL | Excel | Python | AI-Assisted Analytics
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
